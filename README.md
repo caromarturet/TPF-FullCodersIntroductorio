@@ -8,7 +8,7 @@
 
 **Descripción del proyecto** 
 
-El presente trabajo pretende simular una panadería llamada "Ziro" que necesita elaborar productos panificados del día, considerando la cantidad de materia prima a utilizar, los costos, las ganancias y la cantidad de producto terminado a obtener. Por lo tanto, se necesita elaborar un programa que me ayude a determinar estos items y que sea sencillo e intituitivo para que el operario pueda comprenderlo con facilidad.
+El presente trabajo pretende simular una panadería llamada "Ziro" que necesita elaborar productos panificados del día, considerando la cantidad de materia prima a utilizar, los costos, las ganancias y la cantidad de producto terminado a obtener. Por lo tanto, se necesita elaborar un programa que me ayude a determinar estos items y que sea sencillo e intuitivo para que el operario pueda comprenderlo con facilidad.
 
 **Requisitos del programa** 
 
@@ -30,7 +30,7 @@ https://trello.com/b/ayvKOfa5/panadería-ziro-tpfinal-fcoders
 
 El proyecto consta de:
 
-* Un pseudocódigo ejecutable con Pseint.
-* Un diagrama de flujo obtenido de Pseint.
+* Un pseudocódigo ejecutable con PseInt.
+* Un diagrama de flujo obtenido de PseInt.
 * Un tablero de Trello donde se observa la metodología Kanban.
 * Un archivo .pdf con presentación del trabajo final.
