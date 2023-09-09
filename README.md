@@ -1,8 +1,14 @@
-# TPF-FullCodersIntroductorio
+Trabajo final del curso introductorio de programación de Argentina Programa.
 
-El presente trabajo pretende simular una panadería/pastelería semi-industrial que necesita:
+Información:
+Alumna: Carolina Graciela Marturet
+Comisión: 30/21666
+Tutor: Manuel Guillermo Pérez
 
-o Controlar de stock y precio de materia prima.
-o Determinar precio del producto final.
-o Determinar producción diaria.
-o Controlar fecha de vencimiento de la materia prima y del producto terminado.
+El presente trabajo pretende simular una panadería llamada "Ziro" que necesita:
+
+o Controlar stock de materia prima.
+o Determinar la receta que se elaborará en el día.
+o Determinar la cantidad de producto que se desea obtener.
+o Determinar el costo del producto terminado.
+o Determinar el precio de venta del producto final y la ganancia.
