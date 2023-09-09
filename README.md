@@ -25,3 +25,12 @@ Considerando lo mencionado en la descripción, el programa debe ayudar a:
 Para el proyecto se utilizará la metodología Kanban utilizando los tableros de Trello:
 
 https://trello.com/b/ayvKOfa5/panadería-ziro-tpfinal-fcoders
+
+**Presentación del proyecto** 
+
+El proyecto consta de:
+
+* Un pseudocódigo ejecutable con Pseint.
+* Un diagrama de flujo obtenido de Pseint.
+* Un tablero de Trello donde se observa la metodología Kanban.
+* Un archivo .pdf con presentación del trabajo final.
