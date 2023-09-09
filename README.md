@@ -8,7 +8,7 @@
 
 **Descripción del proyecto** 
 
-El presente trabajo pretende simular una panadería llamada "Ziro" que necesita elaborar productos panificados del día, considerando la cantidad de materia prima a utilizar, los costos, las ganancias y la cantidad de producto terminado a obtener. Por lo tanto, se necesita elaborar un programa que me ayude a determinar estos items y que sea sencillo e intituivo para que el operario pueda comprenderlo con facilidad.
+El presente trabajo pretende simular una panadería llamada "Ziro" que necesita elaborar productos panificados del día, considerando la cantidad de materia prima a utilizar, los costos, las ganancias y la cantidad de producto terminado a obtener. Por lo tanto, se necesita elaborar un programa que me ayude a determinar estos items y que sea sencillo e intituitivo para que el operario pueda comprenderlo con facilidad.
 
 **Requisitos del programa** 
 
